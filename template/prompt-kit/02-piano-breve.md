@@ -6,9 +6,9 @@ Task:
 Contesto:
 [scrivi 1-2 righe sul progetto o sulla pagina]
 
-Prima di modificare file, restituisci una bozza di piano in massimo 5 punti operativi.
+Prima di modificare file, restituisci un piano dettagliato in massimo 5 punti operativi.
 
-Il limite riguarda la bozza visibile, non il numero di round: possiamo rivederla con l'agente finche' e' approvabile.
+Il limite riguarda il piano visibile, non il numero di round: possiamo rivederlo con l'agente finche' e' approvabile.
 
 I 5 punti non sono 5 comandi ne' 5 requisiti separati: sono massimo 5 decisioni/azioni verificabili.
 

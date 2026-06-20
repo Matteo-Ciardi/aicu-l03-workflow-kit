@@ -10,6 +10,8 @@ Prima di modificare, conferma in una frase:
 - cosa resta fuori scope;
 - strategia prompt usata: zero-shot o few-shot.
 
+Chiedi un'ulteriore conferma prima di modificare.
+
 Confini:
 
 - non cambiare layout globale;
